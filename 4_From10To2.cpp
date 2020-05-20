@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+int main() {
 	int num = 0, result = 0, discharge = 1;
 	cout << "Transfer from the 10th number system to the 2nd system of value. Enter an integer:" << endl;
 	cin >> num;
