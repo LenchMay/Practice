@@ -13,7 +13,7 @@ bool IsPalindrom(string link) {
 		return false;
 }
 
-void main() {
+int main() {
 	string s;
 	cout << "Check for a palindrome. Enter the string:" << endl;
 	cin >> s;
