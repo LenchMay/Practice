@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+int main() {
 	int a, b;
 	cout << "Finding the greatest common factor. Enter two integers separated by spaces:" << endl;
 	cin >> a >> b;
