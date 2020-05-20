@@ -15,7 +15,7 @@ int Factorial(int num) {
 	}
 }
 
-void main() {
+int main() {
 	int num;
 	cout << "Factorial numbers. Enter a number not exceeding 10 in absolute value:" << endl;
 	do {
