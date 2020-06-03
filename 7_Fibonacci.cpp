@@ -12,7 +12,8 @@ int main() {
 			sum += num1;
 		if (num2 % 2 == 0)
 			sum += num2;
-		//cout << num1 << " " << num2 << " " << sum << endl;
 	} while (num2 < 4000000);
 	std::cout << sum << endl;
+
+	return 0;
 }
