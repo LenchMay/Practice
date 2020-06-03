@@ -18,4 +18,6 @@ int main() {
 	cout << "Check for a palindrome. Enter the string:" << endl;
 	cin >> s;
 	cout << IsPalindrom(s) << endl;
+
+	return 0;
 }
