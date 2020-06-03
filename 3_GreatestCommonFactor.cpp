@@ -12,4 +12,5 @@ int main() {
 			b %= a;
 	} while (a != 0 && b != 0);
 	cout << a + b << endl;
+	return 0;
 }
