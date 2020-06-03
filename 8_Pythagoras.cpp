@@ -16,4 +16,5 @@ int main() {
 	}
 	
 	cout << "a * b * c = " << prod << endl;
+	return 0;
 }
