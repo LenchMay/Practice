@@ -10,4 +10,5 @@ int main() {
 	}
 	int prod = abs(sum1 - sum2 * sum2);
 	cout << prod << endl;
+	return 0;
 }
