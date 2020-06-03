@@ -18,4 +18,5 @@ int main() {
 		}
 	}
 	cout << position << endl;
+	return 0;
 }
