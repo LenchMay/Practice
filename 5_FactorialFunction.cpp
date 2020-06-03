@@ -22,4 +22,6 @@ int main() {
 		cin >> num;
 	} while (abs(num) > 10);
 	cout << Factorial(num) << endl;
+
+	return 0;
 }
